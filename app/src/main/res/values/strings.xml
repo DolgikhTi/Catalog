@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Catalog</string>
+    <string name="create_at_account">Create at account</string>
+    <string name="enter_your_login">Enter your login</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="registration">Registration</string>
+    <string name="authorize">Authorize</string>
+    <string name="log_in_to_your_account">Log in to your account</string>
+    <string name="to_register">To register</string>
+    <string name="authorize2">Authorize</string>
+    <string name="goods">Goods</string>
+    <string name="view">View</string>
+    <string name="buy">Buy</string>
+</resources>
